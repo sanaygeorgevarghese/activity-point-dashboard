@@ -7,5 +7,5 @@ import react from '@vitejs/plugin-react'
 // then base should be '/apms/'
 export default defineConfig({
   plugins: [react()],
-  base: '/activity-points-management-system/',
+  base: '/activity-point-dashboard/',
 })
