@@ -1,0 +1,29 @@
+[
+  {
+    "uid": "21CS101",
+    "password": "pass123",
+    "name": "Aditi Sharma",
+    "department": "Computer Science & Engineering",
+    "semester": 5,
+    "email": "aditi.sharma@example.edu",
+    "targetPoints": 100
+  },
+  {
+    "uid": "21EC045",
+    "password": "welcome1",
+    "name": "Rohan Menon",
+    "department": "Electronics & Communication",
+    "semester": 7,
+    "email": "rohan.menon@example.edu",
+    "targetPoints": 120
+  },
+  {
+    "uid": "22ME019",
+    "password": "student99",
+    "name": "Kavya Nair",
+    "department": "Mechanical Engineering",
+    "semester": 3,
+    "email": "kavya.nair@example.edu",
+    "targetPoints": 80
+  }
+]

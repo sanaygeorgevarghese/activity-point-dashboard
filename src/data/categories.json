@@ -1,0 +1,38 @@
+[
+  {
+    "id": "technical",
+    "name": "Technical / Professional Activities",
+    "description": "Workshops, hackathons, certifications, paper presentations, internships and technical clubs.",
+    "icon": "💻"
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "description": "Inter-college tournaments, athletics, university-level sports representation.",
+    "icon": "🏆"
+  },
+  {
+    "id": "cultural",
+    "name": "Cultural Activities",
+    "description": "Music, dance, drama, fine arts and other cultural fest participations.",
+    "icon": "🎭"
+  },
+  {
+    "id": "social",
+    "name": "Social Service",
+    "description": "NSS, NGO volunteering, blood donation camps and community service drives.",
+    "icon": "🤝"
+  },
+  {
+    "id": "entrepreneurship",
+    "name": "Entrepreneurship",
+    "description": "Startup pitches, business plan competitions and incubation programs.",
+    "icon": "🚀"
+  },
+  {
+    "id": "leadership",
+    "name": "Leadership Activities",
+    "description": "Club coordination, student council roles, event organizing and mentoring.",
+    "icon": "🌟"
+  }
+]
